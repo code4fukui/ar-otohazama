@@ -1,5 +1,7 @@
 # AR Otohazama
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 AR Otohazama is a web-based AR application that displays a floating 3D scene.
 
 ## Demo

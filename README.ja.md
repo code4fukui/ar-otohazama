@@ -1,13 +1,13 @@
 # AR Otohazama
 
-AR Otohazamaは、音を視覚化し、3D空間で楽しめるWebアプリケーションです。WebブラウザでAR(拡張現実)機能を使って、さまざまな音楽を体験できます。
+AR Otohazamaは、3D空間で音を視覚化して楽しめるWebアプリケーションです。WebブラウザのAR機能を使うことで、様々な音楽を3D体験できます。
 
 ## デモ
-デモはここで確認できます: https://code4fukui.github.io/ar-otohazama/
+デモは以下のURLで確認できます: https://code4fukui.github.io/ar-otohazama/
 
 ## 機能
 - 3D空間に音の形状を表示
-- WebブラウザのAR機能を使った体験
+- WebブラウザのAR機能を利用した体験
 - 音の高さに合わせたオブジェクトの動きを再現
 
 ## 必要環境
