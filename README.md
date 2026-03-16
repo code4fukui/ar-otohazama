@@ -18,4 +18,4 @@ This project requires a modern web browser with WebGL and WebXR support.
 To run the application locally, simply open the `index.html` file in a web browser.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
